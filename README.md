@@ -1,5 +1,7 @@
 ## Hi there 👋
-***This is my first Rep!***
+This is my first Repo!
+
+I’m currently working on my ***portofolio***.
 
 <!--
 **simoncybersec/simoncybersec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
