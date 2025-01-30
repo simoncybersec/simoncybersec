@@ -13,6 +13,8 @@
 - Open-Source Contributions: My contributions to popular cybersecurity tools and frameworks.
 ## 📚 Learning and Sharing:
    I believe in continuous learning and sharing knowledge with the cybersecurity community. Here, you'll find not only my       projects but also documentation, tutorials, and resources to help others learn and grow in the field of cybersecurity.
+## 💬 Let's Connect:
+I'm always open to collaboration, feedback, and new opportunities. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/simoncybersec/) .
 
   <!--
 - 🔭 I’m currently working on ...I believe in continuous learning and sharing knowledge with the cybersecurity community. Here, you'll find not only my projects but also documentation, tutorials, and resources to help others learn and grow in the field of cybersecurity.
