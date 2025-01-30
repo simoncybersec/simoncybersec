@@ -1,6 +1,9 @@
 ##  Welcome to My GitHub Profile!
 👋 Hi there! I'm **Simon Berhe**, a passionate **Cybersecurity Analyst** with a focus on securing systems, identifying vulnerabilities, and developing tools to enhance     
     organizational security.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ..
 I’m currently working on my ***portofolio***.
 
 <!--
