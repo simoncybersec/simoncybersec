@@ -14,7 +14,7 @@ Hi, I'm <span style="color:blue"> **[Simon Berhe](https://github.com/simoncybers
 - **Open-Source Contributions**: My contributions to popular cybersecurity tools and frameworks.
 -->
 ## 📚 Learning and Sharing:
-I am passionate about continuous learning and sharing knowledge in cybersecurity. I’ve created a cybersecurity portfolio to showcase my work. Feel free to explore it [here] (https://www.linkedin.com/in/simoncybersec/).
+I am passionate about continuous learning and sharing knowledge in cybersecurity. I’ve created a cybersecurity portfolio to showcase my work. Feel free to explore it [here](https://github.com/simoncybersec/Portfolio).
 ## 📫 Let's Connect:
 I'm always open to collaboration, feedback, and new opportunities. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/simoncybersec/) .
   <!--
